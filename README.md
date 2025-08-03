@@ -4,6 +4,12 @@ A retail data science app that segments customers using RFM clustering and provi
 
 ---
 
+##  Live Demo
+
+Check out the deployed app here:  
+ [Shopper Spectrum Streamlit App](https://shopper-spectrum-onuy6np3nhnlgcb9oyzgf7.streamlit.app/)
+
+
 ## Features
 
 ### 1️. Customer Segmentation
